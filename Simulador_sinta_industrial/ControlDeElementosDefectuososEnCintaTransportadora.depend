@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1753905214 source:c:\users\fersa\desktop\facultad\programacion\proyects\controldeelementosdefectuososencintatransportadora\main.c
-	<stdio.h>
-	<stdlib.h>
-	<stdbool.h>
-	<time.h>
-	<windows.h>
-	<conio.h>
-
